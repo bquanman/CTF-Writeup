@@ -64,8 +64,8 @@ leet('social media/network' + "-" + "willbarrow")
 #### Và đây là link ảnh: https://assets3.ello.co/uploads/user/cover_image/5216858/ello-xhdpi-2018abde.jpg
 ![image](https://user-images.githubusercontent.com/75996090/146133893-31da1018-7af7-42fa-8a41-cadca9e56768.png)
 #### Lụm tiền!!!!
-### Flag: Wanna.One{Do_you_smile_when_you_find_this_flag?Merry_Xmas}
-
+### Flag: Wanna.One{pr0t0nm4i1-wi11b4rr0w@protonmail.com_Do_you_smile_when_you_find_this_flag?Merry_Xmas}
+~~(Theo mình được biết là do có 1 bạn làm cách unintended khiến thử thách trở nên dễ dàng nên flag đã được sửa lại ngay sau đó)~~
 ## Review:
 #### Chall này không quá khó do nó khá là straigh và các bước đều có hint rõ ràng nếu các bạn để ý, ko có rabbit hole hay guess. Hi vọng các bạn có thể học đc gì đó từ writeup này
 
