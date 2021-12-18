@@ -6,6 +6,7 @@ Will Barrow is an Open-Source Intelligence Analyst, so he keeps his personal inf
 Hard
 
 # Solver:
+#### ~~Mình thấy mn thường làm cách unintended nhưng đây là cách đúng nhất, đã đc tác giả confirm~~
 ## Phase 1:
 #### Đầu tiên, tìm mạng xã hội được nhắc đến ở đề bài. Copy nguyên đoạn `social question-and-answer platform`, tìm được mxh này là `Quora`<br>
 ![image](https://user-images.githubusercontent.com/75996090/146077431-a3eeeb6f-4f77-4807-adc8-96e018503a3e.png)
@@ -65,7 +66,7 @@ leet('social media/network' + "-" + "willbarrow")
 ![image](https://user-images.githubusercontent.com/75996090/146133893-31da1018-7af7-42fa-8a41-cadca9e56768.png)
 #### Lụm tiền!!!!
 ### Flag: Wanna.One{pr0t0nm4i1-wi11b4rr0w@protonmail.com_Do_you_smile_when_you_find_this_flag?Merry_Xmas}
-~~(Theo mình được biết là do có 1 bạn làm cách unintended không tìm flag khiến thử thách trở nên dễ dàng nên flag đã được sửa lại ngay sau đó)~~
+
 ## Review:
 #### Chall này không quá khó do nó khá là straigh và các bước đều có hint rõ ràng nếu các bạn để ý, ko có rabbit hole hay guess. Hi vọng các bạn có thể học đc gì đó từ writeup này
 
