@@ -66,4 +66,4 @@ leet('social media/network' + "-" + "willbarrow")
 #### Lụm tiền!!!!
 ### Flag: Wanna.One{Do_you_smile_when_you_find_this_flag?Merry_Xmas}
 
-## Quảng cáo: Bạn nào cảm thấy hứng thú với OSINT thì có thể tham khảo một số challenge của mình ở đây nhé: https://wargame.whitehat.vn/
+## Quảng cáo: Mình cũng có một số challenge OSINT, bạn nào cảm thấy hứng thú với OSINT thì có thể tham khảo ở đây nhé: https://wargame.whitehat.vn/
