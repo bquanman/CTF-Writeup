@@ -70,4 +70,3 @@ leet('social media/network' + "-" + "willbarrow")
 ## Review:
 #### Chall này không quá khó do nó khá là straigh và các bước đều có hint rõ ràng nếu các bạn để ý, ko có rabbit hole hay guess. Hi vọng các bạn có thể học đc gì đó từ writeup này
 
-## Quảng cáo: Mình cũng có một số challenge OSINT, bạn nào cảm thấy hứng thú với OSINT thì có thể tham khảo ở đây nhé: https://wargame.whitehat.vn/
