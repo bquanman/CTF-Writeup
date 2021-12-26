@@ -100,7 +100,7 @@ Hi. You found the hidden message. To advance to the next stage, there are three 
 #### Quay lại facebook đọc các bài post, mình hiểu rằng password là tên của `first Game of War player`
 ![image](https://user-images.githubusercontent.com/75996090/147403967-74b57ef4-9c76-4c61-85a5-686a19809471.png)
 ![image](https://user-images.githubusercontent.com/75996090/147403982-221afb45-a1df-4d47-836a-386b7708a274.png)
-#### Lúc đầu ý tưởng của mình là tải game `Game of War` trên CHPlay về rồi tìm nhân vật có tên Karen Douche sau đó tìm danh sách bạn của người đó nhưng nohope. Cho đến khi admin tung hint số 4 
+#### Lúc đầu ý tưởng của mình là tải game `Game of War` trên CHPlay về bằng con iPorn Pro Max 13 của mình rồi tìm nhân vật có tên Karen Douche sau đó tìm danh sách bạn của người đó nhưng nohope. Cho đến khi admin tung hint số 4 
 ![image](https://user-images.githubusercontent.com/75996090/147404481-17063dd0-6c62-4041-9101-3bfe7e97b347.png)
 #### Google và mình tìm đc tên người này là `TheLegend27`. Nhập mật khẩu và nhận được một nửa flag
 ![image](https://user-images.githubusercontent.com/75996090/147404544-8e415d1c-30f0-47f6-ac09-5a626731af2d.png)
