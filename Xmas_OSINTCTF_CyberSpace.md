@@ -67,7 +67,7 @@ Hi. You found the hidden message. To advance to the next stage, there are three 
 ![image](https://user-images.githubusercontent.com/75996090/147384023-6c112f08-6603-4f89-a311-a6ccec63e5c3.png)
 ### Flag: CSFLAG_CM2021{D0ubl3_cH3ck3d}
 
-#### Bên cạnh những thứ này, botezgambit2277 còn đăng một link ggsheet nữa và dựa vào link ggsheet này, có một mẹo để tìm ra email chủ sở hữu và mình đã nghĩ ra.
+#### Bên cạnh những thứ này, botezgambit2277 còn đăng một link ggsheet nữa và dựa vào link ggsheet này, có một mẹo để tìm ra email chủ sở hữu mà mình đã nghĩ ra.
 #### Đầu tiên các bạn chọn gắn dấu sao hoặc thêm lối tắt vào drive
 ![image](https://user-images.githubusercontent.com/75996090/147382376-f9526ced-1ac0-490e-bf0a-1a5f1d8307ec.png)
 #### Sau đó vào drive của mình (https://drive.google.com), cái sheet kia sẽ ở ngay trên đầu phần đề xuất, chuột phải để xem email thôi. trxncc3pt1234@gmail.com
@@ -126,7 +126,7 @@ Hi. You found the hidden message. To advance to the next stage, there are three 
 ![image](https://user-images.githubusercontent.com/75996090/147406425-43cd88fa-ca27-4700-957f-31a6e68055e1.png)
 ### Flag 8: CSFLAG8_CM2021{ZuP3rb_h4kk3r_m4N}
 ## End
-#### Trong writeup này mình ko nhắc đến nhưng lần mình bị rickroll do nó có [QUÁ NHIỀU](https://bit.ly/3Ji8OMq), đặc sản của Cyber Space 🙂 
+#### Trong writeup này mình ko nhắc đến những lần mình bị rickroll do nó có [QUÁ NHIỀU](https://bit.ly/3Ji8OMq), đặc sản của Cyber Space 🙂 
 #### Nhưng dù sao cũng cảm ơn CS vì một Noel tuyệt vời với gần 2 ngày trời ngồi trước màn hình máy tính để giải challenge =]]]]
 #### Cũng hi vọng các bạn sẽ học được gì đó từ write-up này ~~(nếu thấy hay cho mình xin star🌟, subcribe và donate nhé)~~
 ### Thanks for reading!!!
