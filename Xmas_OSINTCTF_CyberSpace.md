@@ -78,6 +78,7 @@ Hi. You found the hidden message. To advance to the next stage, there are three 
 #### Email auto-reply có chứa flag: CSFLAG10_CM2021{sk1ll3d_pl4y3r}
 
 ## Picture-2.jpg
+![picture-2](https://user-images.githubusercontent.com/75996090/147414203-3232006c-a6df-47ac-b93e-a4f61b56d428.jpg)
 #### Ảnh 2 có chứa link wordpress: https://thetruthnews423666022.wordpress.com/
 #### Sau khi lục lọi một lúc mình thấy flag ở bài viết này: https://thetruthnews423666022.wordpress.com/2021/12/15/about-us/
 ![image](https://user-images.githubusercontent.com/75996090/147382742-fdf5350c-c4db-4804-a666-13f4874d8ffb.png)
