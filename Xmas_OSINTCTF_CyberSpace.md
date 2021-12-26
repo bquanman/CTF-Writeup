@@ -108,7 +108,8 @@ Hi. You found the hidden message. To advance to the next stage, there are three 
 ![image](https://user-images.githubusercontent.com/75996090/147404636-38c27d31-bb19-4158-9b50-4ac5dccfb5c1.png)
 #### Nội dung của Paste thứ 3:
 ![image](https://user-images.githubusercontent.com/75996090/147404955-d7db3495-d39e-41a8-98db-a24b9d6bd348.png)
-#### Vậy là wordpress có một hidden site đường dẫn là `/15_4`. Sau rất lâu mình mới hiểu rằng 15 và 4 là các ô chữ trong [crossword puzzle blog](https://karenskitchen101286359.wordpress.com/2021/12/11/i-like-a-crossword-for-my-customers/) 
+#### Vậy là có một hidden site đường dẫn là `/15_4` và mình đoán đó là đường dẫn của wordpress của Karen vì wordpress và các paste này đều được tạo cùng thời gian ngày 11/12. Có thể nó không có quá nhiều ý nghĩa trong thử thách này nhưng các bạn nên để ý thời gian khi OSINT, đó là điều quan trọng trong truy tìm và thu thập chứng cứ số.
+#### Sau rất lâu mình mới hiểu rằng 15 và 4 là các ô chữ trong [crossword puzzle blog](https://karenskitchen101286359.wordpress.com/2021/12/11/i-like-a-crossword-for-my-customers/) 
 ![image](https://user-images.githubusercontent.com/75996090/147405209-f64baa15-d767-4135-801e-b62907af53d0.png)
 #### Ghép lại được https://karenskitchen101286359.wordpress.com/hidden_palace chứa nửa flag còn lại
 ![image](https://user-images.githubusercontent.com/75996090/147405243-fc7ae4d0-48cc-4a1a-baa8-b6d8f4c311ff.png)
