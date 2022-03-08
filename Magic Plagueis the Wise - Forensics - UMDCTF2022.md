@@ -33,6 +33,11 @@ $ hexedit 2
 00000078   A3 DF 7B 66  79 E6 99 ED  D9 1F 81 5A  A9 61 A0 86  81 1A 06 6A  18 A8 61 A0  ..{fy......Z.a.....j..a.
 00000090   86 81 1A 06  6A 18 A8 61  A0 86 81 1A  06 EA 09 03  02 80 AC A7  B1 4A 1A 46  ....j..a.............J.F
 ```
+#### Kiểm tra lại bằng cmp để chắc chắn là chỉ có 1 byte khác nhau
+```
+$ cmp -bl 1 2
+1 104 D    151 i
+```
 #### Tiến hành sửa magic byte đầu tiên thành `89` giống magic byte chuẩn của file png và thêm `.png` vào đuôi file rồi mở lại
 ![1](https://user-images.githubusercontent.com/75996090/157239506-402c1a94-280e-469b-b0f7-ec89ca80d604.png)
 #### Sau khi sửa file thứ 2 thứ 3 đều cho ra hình như trên thì suy nghĩ đầu tiên là phải làm cách nào đó để sửa tất cả các magic byte đầu tiên của ảnh để tìm ra ảnh duy nhất có flag trong số đó. 
