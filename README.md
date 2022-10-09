@@ -1,2 +1,2 @@
 # CTF-Writeups
-## Some writeups of good challenges in CTFs, mostly OSINT
+## Some writeups of the challenges i solved in CTFs
