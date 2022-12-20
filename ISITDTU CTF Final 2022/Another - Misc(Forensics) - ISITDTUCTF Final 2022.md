@@ -34,6 +34,7 @@ Phân tích cho thấy có một file `svchost.exe` được thực thi ở thư
 Tới đây có thể kết luận tên malware tại thời điểm được thực thi là svchost.exe
 
 > Answer To Question 1: `svchost.exe-8c6e53c2ca267bed59da4587c53f1c5ea5a8e9ff`
+
 > Answer To Question 4: `uwu`
 
 #### [2]. Where does the malicious process come from?
