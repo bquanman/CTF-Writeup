@@ -7,6 +7,6 @@ Trong giải **ISITDTU CTF 2022 Finals** vừa rồi, team **KCSCxP** của mìn
 
 | Challenge                                                                           | Category         | Solves | Points |
 |-------------------------------------------------------------------------------------|------------------|--------|--------|
-| [DETECTIVE]()                                                                       | Misc(OSINT)      | 4      | 444    |
-| [L34K]()                                                                            | Misc(Forensics)  | 2      | 494    |
-| [Another]()                                                                         | Misc(Forensics)  | 1      | 500    |
+| [DETECTIVE](https://github.com/bquanman/CTF-Writeup/blob/main/ISITDTU%20CTF%20Final%202022/DETECTIVE%20-%20Misc(OSINT)%20-%20ISITDTUCTF%20Final%202022.md)                                                                       | Misc(OSINT)      | 4      | 444    |
+| [L34K](https://github.com/bquanman/CTF-Writeup/blob/main/ISITDTU%20CTF%20Final%202022/L34K%20-%20Misc(Forensics)%20-%20ISITDTUCTF%20Final%202022.md)                                                                            | Misc(Forensics)  | 2      | 494    |
+| [Another](https://github.com/bquanman/CTF-Writeup/blob/main/ISITDTU%20CTF%20Final%202022/Another%20-%20Misc(Forensics)%20-%20ISITDTUCTF%20Final%202022.md)                                                                         | Misc(Forensics)  | 1      | 500    |
