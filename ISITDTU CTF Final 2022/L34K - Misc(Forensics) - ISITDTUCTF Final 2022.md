@@ -164,7 +164,11 @@ Mình có thử dùng plugin `memdump` để dump notepad process và dùng stri
 
 Vì thế sau một số tìm kiếm thì mình hiểu là các chuỗi khi ghi vào notepad sẽ được lưu trong heaps và ta phải tìm đúng địa chỉ heap đang chứa đoạn text đó.
 
-Cuốn [The Art Of Memory Forensics](https://repo.zenk-security.com/Forensic/The%20Art%20of%20Memory%20Forensics%20-%20Detecting%20Malware%20and%20Threats%20in%20Windows,%20Linux,%20and%20Mac%20Memory%20(2014).pdf) có giải thích cách để tìm text trong `notepad's heap` và cũng giới thiệu plugin `heaps` để hỗ trợ việc này. Tuy nhiên nó chỉ hỗ trợ các phiên bản win thấp dưới Win7 như Winxp nên ta không sử dụng được ở bài này mà phải làm thủ công. 
+Cuốn [The Art Of Memory Forensics](https://repo.zenk-security.com/Forensic/The%20Art%20of%20Memory%20Forensics%20-%20Detecting%20Malware%20and%20Threats%20in%20Windows,%20Linux,%20and%20Mac%20Memory%20(2014).pdf) có giải thích cách để tìm text trong `notepad's heap` và cũng giới thiệu plugin `heaps` để hỗ trợ việc này. 
+
+![image](https://user-images.githubusercontent.com/75996090/208884830-3a156685-291a-4012-8079-f93f881d8db6.png)
+
+Tuy nhiên nó chỉ hỗ trợ các phiên bản win thấp dưới Win7 như Winxp nên ta không sử dụng được ở bài này mà phải làm thủ công. 
 
 1. Sử dụng `WinDBG` để tìm địa chỉ notepad process `!process 0 0 notepad.exe`
 
