@@ -1,4 +1,4 @@
-### All Forensics challenges i created in [idekCTF 2022*](https://ctftime.org/event/1839)
+### All Forensics challenges i created for [idekCTF 2022*](https://ctftime.org/event/1839) as part of the **idek** team.
 
 ![image](https://user-images.githubusercontent.com/75996090/212806350-f5c79fcd-e33f-4978-85b7-9ac40391cf32.png)
 
