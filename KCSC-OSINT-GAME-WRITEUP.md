@@ -8,6 +8,8 @@ Tìm **Kachy Anna** trên một số mạng xã hội phổ biến các bạn s�
 
 Dựa vào các bài viết trên tường nhà Kachy Anna, ta có thể tổng hợp đc một số thông tin sau:
 * Lúc khoảng 3h sáng 1/3 cô ấy nói là không ngủ đc, lúc này đang là 10h02 UTC => cô ấy sống ở múi giờ UTC-7, múi giờ này nằm ở bán cầu Bắc, bao phủ một phần lớn bờ Tây của Bắc Mỹ, bao gồm một số bang và tỉnh của Mỹ, và các tỉnh phía Tây của Canada 
+![image](https://user-images.githubusercontent.com/75996090/229532300-8a0459d4-5d0b-435f-879c-0949d1fc2861.png)
+
 * Cô ấy sống ở vùng có nhiều Chiền chiện miền tây, loài chim thường hót vào buổi sáng và cũng xuất hiện nhiều ở một số bang của Mỹ, trong đó chỉ có duy nhất Oregon là ở múi giờ UTC-7<br>
 
 ![image.png](https://images.viblo.asia/8d5c1d29-cfba-4a9a-8071-66780d3db0e8.png)
