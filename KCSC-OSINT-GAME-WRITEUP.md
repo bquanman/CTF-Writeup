@@ -16,15 +16,20 @@ Dựa vào các bài viết trên tường nhà Kachy Anna, ta có thể tổng 
 * Vùng này có tuyết rơi vào tháng 3, Oregon cũng vậy<br>
 ![image.png](https://images.viblo.asia/6bdd6861-8ab2-46d9-9c1e-820a4a7e6689.png)
 * Loại quả trong avt có thể là loại quả yêu thích của Anna, google cho biết đây là quả mâm xôi đỏ và cũng là loại quả đc trồng nhiều ở Oregon
+* 
 ![image.png](https://images.viblo.asia/0d938767-c9bf-44b4-9ac0-da666024e28e.png)
 ![image.png](https://images.viblo.asia/9bee88c6-6e4e-4e99-ab73-c6f69c362e31.png)
+
 => Từ đây khẳng định được Anna đang sống tại Oregon
 
 Dựa vào post thứ 3 tìm "Zoo in Oregon" trên ggmaps đưa bạn tới công viên Oregon, cũng là địa điểm gần nhà Anna. 
 
 Tiếp tục tìm các sân bay gần đó bạn sẽ thấy Sân bay quốc tế Portland cách Oregon Zoo khoảng 20p di chuyển <br>
+
 ![image.png](https://images.viblo.asia/82591517-aa1d-4159-933a-f10749b045ea.png)<br>
+
 ![image.png](https://images.viblo.asia/f0d65c4b-c379-49d4-b012-c6183d8fa795.png)
+
 <br> Tất nhiên thời gian này có thể thay đổi theo tình trạng giao thông và địa điểm nhà chính xác của Anna nên ta cũng có thể chắc chắn Anna đã bắt đầu chuyến bay từ Sân bay quốc tế Portland
 
 Post thứ 4 được đăng lúc 13h02 UTC tức 6h local time => chuyến bay của cô ấy sẽ khởi hành vào khoảng 7h30 
