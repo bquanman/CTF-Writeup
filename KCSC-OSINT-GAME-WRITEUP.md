@@ -1,6 +1,15 @@
+# Challenge Description:
+
+“Kachy Anna - một cô gái xinh đẹp, giỏi giang và được rất nhiều bạn bè khác giới theo đuổi, mến mộ. Vào một ngày nọ, cô có xin ba mẹ mình được tham gia cùng nhóm bạn đi chơi. Tuy nhiên, cô ấy lại không nói địa điểm rằng mình đi đâu hay với ai. Khoảng 2 ngày sau khi Anna rời khỏi nhà, bà Linda - mẹ của cô ấy có nhận được một cuộc điện thoại lạ. Khi bà bắt máy, người đó nói rằng: “Anna - con gái của bà hiện đang cấp cứu trong bệnh viện. Bác sĩ chẩn đoán cô ấy bị xuất huyết não, cần phẫu thuật gấp. Vì thế bà nhanh chóng chuyển tiền để chúng tôi làm thủ tục nhập viện cho cô ấy”. Sau khi nghe điện, bà đã gọi điện cho con gái nhưng chỉ thấy điện thoại báo thuê bao, sau đó bà đã gọi cho chồng và nói về cuộc điện thoại vừa rồi. Nhưng thay vì gấp gáp chuyển tiền cho họ, ông Peter - bố của Anna, một luật sư có tiếng trong nghề đã khuyên vợ bình tĩnh bởi hiện nay có rất nhiều cuộc điện thoại lừa đảo như vậy. Sau đó, ông đã nhờ công an vào cuộc. Bạn hãy vào vai là một trong những người của đội điều tra, tìm ra vị trí của Anna lúc bấy giờ.”
+
+# Short Solution:
+
+Tìm **Kachy Anna** trên một số mạng xã hội phổ biến các bạn sẽ thấy tài khoản Instagram của Anna: https://www.instagram.com/kachyohana/
+
 Dựa vào các bài viết trên tường nhà Kachy Anna, ta có thể tổng hợp đc một số thông tin sau:
 * Lúc khoảng 3h sáng 1/3 cô ấy nói là không ngủ đc, lúc này đang là 10h02 UTC => cô ấy sống ở múi giờ UTC-7, múi giờ này nằm ở bán cầu Bắc, bao phủ một phần lớn bờ Tây của Bắc Mỹ, bao gồm một số bang và tỉnh của Mỹ, và các tỉnh phía Tây của Canada 
 * Cô ấy sống ở vùng có nhiều Chiền chiện miền tây, loài chim thường hót vào buổi sáng và cũng xuất hiện nhiều ở một số bang của Mỹ, trong đó chỉ có duy nhất Oregon là ở múi giờ UTC-7<br>
+
 ![image.png](https://images.viblo.asia/8d5c1d29-cfba-4a9a-8071-66780d3db0e8.png)
 * Vùng này có tuyết rơi vào tháng 3, Oregon cũng vậy<br>
 ![image.png](https://images.viblo.asia/6bdd6861-8ab2-46d9-9c1e-820a4a7e6689.png)
@@ -29,3 +38,10 @@ Các bạn sẽ thấy một chuyến bay đi từ Portland tới Santa Ana cũn
 So sánh với thời gian ở post cuối cùng khi Anna hoàn tất các thủ tục check-out và ra khỏi sân bay là lúc 17h19, khoảng thời gian chênh lệnh có thể là thời gian Anna làm các thủ tục check-out
 
 => Thông tin về địa điểm cuối cùng Anna có mặt là sân bay Santa Ana John Wayne (Santa Ana John Wayne Airport)
+
+## Postscript:
+
+* Do challenge này mình làm từ khá lâu rồi, lúc đó thời gian ở Oregon tính theo giờ UTC-8 nên khi rework challenge này mình đã phải sửa một số post trên tường dẫn đến việc tính thời gian có hơi phức tạp <br>
+> Oregon nằm ở múi giờ UTC-8 khi áp dụng Daylight Saving Time (DST) hoặc Summer Time, mùa thời gian tiết kiệm ánh sáng ban đêm. Thời gian thực hiện DST bắt đầu từ khoảng giữa tháng 3 và kéo dài đến khoảng giữa tháng 11 hàng năm. Khi đó, múi giờ của Oregon sẽ được tăng lên một giờ, từ UTC-7 (nếu không có DST) lên UTC-8 (trong thời gian áp dụng DST). Khi DST kết thúc, lại trở về múi giờ UTC-7. Do đó, múi giờ của Oregon có thể khác nhau phụ thuộc vào việc thời gian áp dụng DST hay không.
+
+* Do đăng bài ở Insta cần đăng kèm ảnh nên mình đã lên Twitter kiếm đại cái ảnh để đăng cho nó thực tế nhưng điều này vô tình lại dẫn đến unintended solution (mấy bạn tay to quá tìm ra đc cả Twitter luôn). Nói chung cũng hơi chủ quan nên cần rút exp lần sau :'( 
