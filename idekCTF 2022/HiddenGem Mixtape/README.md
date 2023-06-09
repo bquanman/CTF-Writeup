@@ -1,5 +1,6 @@
 # HiddenGem Mixtape 1: Initial Access
 **Category:** Forensics
+
 **Author:** █Bquanman█#1805
 
 
@@ -13,6 +14,7 @@ https://mega.nz/folder/y1EhgIYD#VYAjIOT53HRtRgD4416Oag
 
 # HiddenGem Mixtape 2: Credential Access
 **Category:** Forensics
+
 **Author:** █Bquanman█#1805
 
 
@@ -30,6 +32,7 @@ Zip password: **94cjFEJdMrZ&YI)s94cjFEJdMrZ&YI)s**
 
 # HiddenGem Mixtape 3: The Ultimate Goal
 **Category:** Forensics
+
 **Author:** █Bquanman█#1805
 
 
